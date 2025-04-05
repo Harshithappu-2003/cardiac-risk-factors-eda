@@ -14,14 +14,6 @@ The goal of this notebook is to:
 - Draw meaningful insights from trends, patterns, and correlations
 
 ---
-
-## 📁 Files
-
-- `Caridac_Risk_Factors_EDA.ipynb` – Main notebook with EDA analysis
-- `README.md` – Project documentation
-
----
-
 ## 📊 Dataset Overview
 
 The dataset includes various attributes such as:
