@@ -73,4 +73,8 @@ The dataset includes various attributes such as:
 - The correlation matrix revealed multicollinearity between several features.
 
 ---
+![image](https://github.com/user-attachments/assets/93fb593e-45dc-42b5-b744-2e89e46871c1)
+
+![image](https://github.com/user-attachments/assets/4862a20c-9b54-47e4-ba17-5487b1ed9508)
+
 
