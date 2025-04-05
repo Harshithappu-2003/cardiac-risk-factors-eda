@@ -24,8 +24,6 @@ The goal of this notebook is to:
 
 ## 📊 Dataset Overview
 
-> *(Assuming the dataset is included or referenced inside the notebook)*
-
 The dataset includes various attributes such as:
 
 - **BMI (Body Mass Index)**
